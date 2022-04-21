@@ -15,7 +15,7 @@ Formula Used = Sum(Out-Degree of all Nodes)/(Number of Nodes)
 7. Network Density = 0.0020485375110809584  
 Formula Used = (Number of Edges)/(7115 x 7114)
 
-(IN/OUT) Degree Distribution in the Q.ipynb file 
+(IN/OUT) Degree Distribution in the Q.ipynb file  
 X-Axis : (IN/OUT) Degree  
 Y-Axis : (Frequency of (IN/OUT) Degree)/(Number of Nodes)  
 
