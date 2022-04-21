@@ -33,6 +33,6 @@ Since PageRank algorithm ranks the nodes on the basis of incoming links to a nod
 HITS Authorities also computes rank on the basis of incoming links (or hubs) and we see 4037 node at 2nd highest rank.  
 Out of the top 20 nodes by PageRank and by HITS Authority, 9 are common indicating both algorithms using similar type of information for ranking.  
 However out of the top 20 nodes by PageRank and by HITS Hub, only 1 is common since hub score is based on outgoing links unlike in PageRank.
-The top 3 authorities are 2398,4037,3352 and top 3 hubs are 2565,766,2688. The top hub 2565 is also the node having maximum out degree  
+The top 3 authorities are 2398,4037,3352 and top 3 hubs are 2565,766,2688. The top hub 2565 is also the node having maximum out degree
 again indicating that top hubs are based on the number of outgoing links. 2565 hub has outgoing link to all the top 3 authorities.
 
